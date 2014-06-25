@@ -1,5 +1,6 @@
 .background {
-  background: center no-repeat url(background.png);
+ /** background: center no-repeat url(background.png); **/
+ background-color: rgb(255, 0, 65);
 }
 
 .logo {
