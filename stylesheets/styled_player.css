@@ -12,7 +12,8 @@
 }
 
 .splash {
-  background-image: url(splash.png);
+  /* background-image: url(splash.png);*/
+  background-color: rgb(0, 255, 65);
 }
 
 .watermark {
